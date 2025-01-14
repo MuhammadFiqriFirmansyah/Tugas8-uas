@@ -1,22 +1,4 @@
-# Tugas8-uas
-
-## Membuat database akademik
-![Screenshot (40)](https://github.com/user-attachments/assets/3c4a6d5f-297a-4457-83a9-38e803f2e68c)
-
-## Memasukan data mahasiswa ke form mahasiswa
-![Screenshot (41)](https://github.com/user-attachments/assets/66dd96eb-fbc1-4ca9-8a96-bf0cfdfc241e)
-
-## Tampilan akan seperti ini jika data telah disimpan
-![Screenshot (42)](https://github.com/user-attachments/assets/8aaa0a1f-edb6-4dd4-bb68-88209995c83a)
-
-## Memasukan nilai mahasiswa
-![Screenshot (43)](https://github.com/user-attachments/assets/74d93761-fd16-40a3-a9b2-f704f9e02ded)
-
-## Tampilan akan seperti ini jika nilai berhasil disimpan
-![Screenshot (44)](https://github.com/user-attachments/assets/38297412-657c-409b-b851-4ba878c8655e)
-
-## Tampilan nilai yang sudah disimpan
-![Screenshot (45)](https://github.com/user-attachments/assets/0c943fef-822e-4503-94de-659c50092363)
+# UAS Pemograman Berorientasi Objek
 
 > Proyek ini adalah sebuah aplikasi yang dirancang untuk membantu dalam pengelolaan data mahasiswa dan nilai mereka. Aplikasi ini dibangun menggunakan bahasa pemrograman Java dan menerapkan arsitektur Model-View-Controller (MVC). Mari kita bahas lebih dalam mengenai komponen-komponen utama dari aplikasi ini.
 
@@ -27,7 +9,7 @@ Aplikasi ini memiliki struktur yang terorganisir dengan baik, yang terdiri dari 
 * Controller: Komponen ini bertindak sebagai penghubung antara model dan view. Kelas-kelas seperti MahasiswaController dan NilaiController mengatur alur data dan logika ketika pengguna berinteraksi dengan antarmuka.
   
 ### 2. Kelas Utama
-Main.java: Kelas ini adalah titik awal dari aplikasi. Di sini, koneksi ke database dibuat, dan objek model serta view diinisialisasi. Controller juga diinstansiasi untuk menghubungkan model dan view, sehingga aplikasi dapat berfungsi dengan baik.
+* Main.java: Kelas ini adalah titik awal dari aplikasi. Di sini, koneksi ke database dibuat, dan objek model serta view diinisialisasi. Controller juga diinstansiasi untuk menghubungkan model dan view, sehingga aplikasi dapat berfungsi dengan baik.
 
 ### 3. Model
 * Mahasiswa.java: Kelas ini merepresentasikan entitas mahasiswa dengan atribut seperti ID, NIM, nama, jurusan, dan angkatan. Ini adalah struktur dasar yang menyimpan informasi penting tentang mahasiswa.
@@ -57,3 +39,21 @@ launch.json dan settings.json: File ini digunakan untuk konfigurasi proyek dalam
 
 ### Kesimpulan
 > Proyek ini adalah aplikasi manajemen data mahasiswa yang terstruktur dengan baik, menggunakan prinsip-prinsip pemrograman berorientasi objek dan arsitektur MVC. Dengan memisahkan model, view, dan controller, aplikasi ini menjadi lebih mudah untuk dikembangkan dan dipelihara. Aplikasi ini tidak hanya membantu dalam pengelolaan data, tetapi juga memberikan pengalaman pengguna yang baik melalui antarmuka yang ramah pengguna.
+
+## Membuat database akademik
+![Screenshot (40)](https://github.com/user-attachments/assets/3c4a6d5f-297a-4457-83a9-38e803f2e68c)
+
+## Memasukan data mahasiswa ke form mahasiswa
+![Screenshot (41)](https://github.com/user-attachments/assets/66dd96eb-fbc1-4ca9-8a96-bf0cfdfc241e)
+
+## Tampilan akan seperti ini jika data telah disimpan
+![Screenshot (42)](https://github.com/user-attachments/assets/8aaa0a1f-edb6-4dd4-bb68-88209995c83a)
+
+## Memasukan nilai mahasiswa
+![Screenshot (43)](https://github.com/user-attachments/assets/74d93761-fd16-40a3-a9b2-f704f9e02ded)
+
+## Tampilan akan seperti ini jika nilai berhasil disimpan
+![Screenshot (44)](https://github.com/user-attachments/assets/38297412-657c-409b-b851-4ba878c8655e)
+
+## Tampilan nilai yang sudah disimpan
+![Screenshot (45)](https://github.com/user-attachments/assets/0c943fef-822e-4503-94de-659c50092363)
