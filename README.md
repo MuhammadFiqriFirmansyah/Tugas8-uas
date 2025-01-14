@@ -40,6 +40,8 @@ launch.json dan settings.json: File ini digunakan untuk konfigurasi proyek dalam
 ### Kesimpulan
 > Proyek ini adalah aplikasi manajemen data mahasiswa yang terstruktur dengan baik, menggunakan prinsip-prinsip pemrograman berorientasi objek dan arsitektur MVC. Dengan memisahkan model, view, dan controller, aplikasi ini menjadi lebih mudah untuk dikembangkan dan dipelihara. Aplikasi ini tidak hanya membantu dalam pengelolaan data, tetapi juga memberikan pengalaman pengguna yang baik melalui antarmuka yang ramah pengguna.
 
+# Tampilan dari hasil pemogramannya
+
 ## Membuat database akademik
 ![Screenshot (40)](https://github.com/user-attachments/assets/3c4a6d5f-297a-4457-83a9-38e803f2e68c)
 
